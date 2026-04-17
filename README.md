@@ -28,7 +28,7 @@
 - Jumlah karyawan laki-laki lebih banyak dibandingkan perempuan.
 - Ras White merupakan yang paling dominan, sedangkan Native Hawaiian dan American Indian merupakan yang paling sedikit.
 - Usia karyawan termuda adalah 23 tahun dan tertua 60 tahun.
-- Karyawan dikelompokkan ke dalam 5 kategori usia (18–24, 25–34, 35–44, 45–54, 55–64). Mayoritas karyawan berada pada rentang usia 25–34 tahun, diikuti oleh 35–44 tahun, sementara kelompok paling sedikit adalah 18–24 tahun.
+- Karyawan dikelompokkan ke dalam 5 kategori usia (18–24, 25–34, 35–44, 45–54, 55–64). Mayoritas karyawan berada pada rentang usia 35–44 tahun, diikuti oleh 25–34 tahun, sementara kelompok paling sedikit adalah 18–24 tahun.
 - Sebagian besar karyawan bekerja di kantor pusat dibandingkan dengan yang bekerja secara remote.
 - Rata-rata masa kerja karyawan yang telah keluar (terminated) adalah sekitar 10 tahun.
 - Distribusi gender di setiap departemen relatif seimbang, namun secara umum jumlah karyawan laki-laki lebih banyak dibandingkan perempuan.
